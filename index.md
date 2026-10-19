@@ -8,4 +8,4 @@ layout: default
 
 ## Table of Contents
 
-[Syllabus](TODO)
+[Syllabus]()
