@@ -15,7 +15,7 @@ When [Carlo Collodi](https://www.britannica.com/biography/C-Collodi) began his _
 
 
 
-Perhaps he tired, or wanted to punish the brats, but he ended his tale with a hanging: ![Pinocchio on the gibbet!](pix/pinocchioGibbet.jpg)
+Perhaps he grew tired, or wanted to punish the brats, but he ended his tale with a hanging: ![Pinocchio on the gibbet!](pix/pinocchioGibbet.jpg)
 
 
 
