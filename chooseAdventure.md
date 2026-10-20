@@ -20,9 +20,11 @@ One night I began: "Nemo and Ka were friends and they used to _ride a white stal
 
 Interactive _writing_ has been around a while as well:
 
-When [Carlo Collodi](https://www.britannica.com/biography/C-Collodi) began his _La storia di un burattino_ (The Story of a Puppet) in the _Giornale per i bambini_ (Children's Journal) in that fateful July of 1881, neither he nor anyone else knew he was gifting the world with _[Pinocchio](https://i.pinimg.com/originals/d5/23/69/d5236990f34237c5f1c80620e94a0883.gif)_!
+When [Carlo Collodi](https://www.britannica.com/biography/C-Collodi) began his _La storia di un burattino_ (The Story of a Puppet) in the _Giornale per i bambini_ (Children's Journal) that fateful July of 1881, neither he nor anyone else knew he was gifting the world with _[Pinocchio](https://i.pinimg.com/originals/d5/23/69/d5236990f34237c5f1c80620e94a0883.gif)_!
 
-Perhaps he grew tired, or wanted to punish the brats, but he ended his tale with a hanging: ![Pinocchio on the gibbet!](pix/pinocchioGibbet.jpg)
+![Pinocchio on the gibbet!](pix/pinocchioGibbet.jpg)
+
+Perhaps he grew tired, or wanted to punish the brats, but he ended his tale with a hanging:
 
 That's right, _he killed Pinocchio!_
 
@@ -40,5 +42,7 @@ The story was originally published in serial form as The Story of a Puppet (Ital
 https://www.catholicculture.org/commentary/pinocchio/
 
 But actual interactive _writing goes at least as far back as 1961, when Raymond Queneau,  
-A Hundred Thousand Billion Poems 
+A Hundred Thousand Billion Poems
+
+Cent mille milliards de poèmes
 
