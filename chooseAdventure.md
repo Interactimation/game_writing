@@ -22,6 +22,8 @@ Interactive _writing_ has been around a while as well:
 
 When [Carlo Collodi](https://www.britannica.com/biography/C-Collodi) began his _La storia di un burattino_ (The Story of a Puppet) in the _Giornale per i bambini_ (Children's Journal) that fateful July of 1881, neither he nor anyone else knew he was gifting the world with _[Pinocchio](https://i.pinimg.com/originals/d5/23/69/d5236990f34237c5f1c80620e94a0883.gif)_!
 
+------
+
 ![Pinocchio on the gibbet!](pix/pinocchioGibbet.jpg)
 
 Perhaps he grew tired, or wanted to punish the brats, but he ended his tale with a hanging:
