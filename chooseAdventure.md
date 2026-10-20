@@ -1,3 +1,8 @@
+---
+layout: page
+title: Enable Functions
+---
+
 # Choose an Adventure
 
 ## Pre-digital Interactive Narrative
