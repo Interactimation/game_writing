@@ -9,3 +9,5 @@ layout: default
 ## Table of Contents
 
 [Syllabus]()
+
+[Choose an Aventure](chooseAdventure.md)
