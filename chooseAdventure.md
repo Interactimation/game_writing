@@ -7,14 +7,14 @@ title: Enable Functions
 
 ## Pre-digital Interactive Narrative
 
-The history of interactive _narrative_ goes back into prehistory: Every time a child's request for a story with particular… _inclusions_ is met by an adult desperate to put the kid to sleep, a unique creation arises
+The history of interactive _narrative_ goes back into prehistory: Every time a child's request for a story with particular parameters is met by an adult desperate to put the kid to sleep, a unique creation arises
 
 > **One summer I had to tell a hundred stories that began:\
 _[Nemo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIUgVCVTL4WBiAixPaBL8ghPQMHHw5QC_Gir2yF2qeFtFezn51kkMVLNtb&s=10) and [Ka](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy1FSkO9FmkbTgr1rUisGGGtR3vPHaSi4Q469pYQ3B2o2uxQNgGEbOznM&s=10) were friends…_**
 
 This little girl loved and pitied the one and, I think, was attracted to and feared the other. She needed to reconcile them, somehow
 
-One night I began: "Nemo and Ka were friends and they used to _ride a white stallion across the baking desert…_" And when I found this was acceptable, well, things got a lot easier!
+One night I began: "Nemo and Ka were friends and they used to _ride a white stallion across the baking desert…_" And when I found this was acceptable for a fish and a snake, well, things got a lot easier!
 
 ## Pre-digital Interactive Text
 
